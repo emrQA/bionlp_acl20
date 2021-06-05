@@ -1,6 +1,6 @@
 # Entity Enriched Neural Models for Clinical Question Answering
 
-[Paper](https://www.aclweb.org/anthology/2020.bionlp-1.12/) | [Leaderboard](https://emrqa.github.io/) | [emrQA repo](https://github.com/panushri25/emrQA) |  
+[Paper](https://www.aclweb.org/anthology/2020.bionlp-1.12/) | [Leaderboard](https://emrqa.github.io/) | [emrQA repo](https://github.com/panushri25/emrQA) |  [bioQA](https://github.com/bsinghpratap/bioQA)
 
 This repo contains the code for the paper: Entity Enriched Neural Models for Clinical Question Answering [pdf](https://www.aclweb.org/anthology/2020.bionlp-1.12/). The paper was published at BioNLP workshop at ACL'20. 
 
